@@ -15,3 +15,31 @@ header{
     padding: 20px;
     background-color: #fff;
 }
+.logo h1{
+    font-size: 24px;
+    color: #000;
+}
+.logo span{
+    color: #357edd;
+
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
+
+.btn-download {
+    padding: 10px 20px;
+    background-color: #357edd;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
